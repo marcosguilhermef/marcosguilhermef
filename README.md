@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="ofVuJBu5T5RQQ0iiIe12TEzWqAjFZJ3hBHEn_0jgLVg" />
 <a href="https://github.com/marcosguilhermef">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosguilhermef&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosguilhermef&layout=compact&langs_count=16&theme=highcontrast"/>
